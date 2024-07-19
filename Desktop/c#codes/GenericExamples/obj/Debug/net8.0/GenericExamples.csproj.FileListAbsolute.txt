@@ -1,0 +1,14 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\GenericExamples\bin\Debug\net8.0\GenericExamples.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\GenericExamples\bin\Debug\net8.0\GenericExamples.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\GenericExamples\bin\Debug\net8.0\GenericExamples.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\GenericExamples\bin\Debug\net8.0\GenericExamples.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\GenericExamples\bin\Debug\net8.0\GenericExamples.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\GenericExamples\obj\Debug\net8.0\GenericExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\GenericExamples\obj\Debug\net8.0\GenericExamples.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\GenericExamples\obj\Debug\net8.0\GenericExamples.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\GenericExamples\obj\Debug\net8.0\GenericExamples.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\GenericExamples\obj\Debug\net8.0\GenericExamples.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\GenericExamples\obj\Debug\net8.0\refint\GenericExamples.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\GenericExamples\obj\Debug\net8.0\GenericExamples.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\GenericExamples\obj\Debug\net8.0\GenericExamples.genruntimeconfig.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\GenericExamples\obj\Debug\net8.0\ref\GenericExamples.dll

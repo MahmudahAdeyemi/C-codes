@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\new_bracket\bin\Debug\net6.0\new_bracket.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\new_bracket\bin\Debug\net6.0\new_bracket.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\new_bracket\bin\Debug\net6.0\new_bracket.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\new_bracket\bin\Debug\net6.0\new_bracket.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\new_bracket\bin\Debug\net6.0\ref\new_bracket.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\new_bracket\bin\Debug\net6.0\new_bracket.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\new_bracket\obj\Debug\net6.0\new_bracket.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\new_bracket\obj\Debug\net6.0\new_bracket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\new_bracket\obj\Debug\net6.0\new_bracket.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\new_bracket\obj\Debug\net6.0\new_bracket.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\new_bracket\obj\Debug\net6.0\new_bracket.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\new_bracket\obj\Debug\net6.0\new_bracket.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\new_bracket\obj\Debug\net6.0\ref\new_bracket.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\new_bracket\obj\Debug\net6.0\new_bracket.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\new_bracket\obj\Debug\net6.0\new_bracket.genruntimeconfig.cache

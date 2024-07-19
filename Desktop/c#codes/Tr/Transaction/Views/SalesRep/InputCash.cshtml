@@ -1,0 +1,12 @@
+@model Transaction.RequestModel.InputClosingRequestModel;
+
+<form method="Post">
+<div class="row">
+    <div class="col">
+        <label asp-for="TotalCash">CashAtHand</label>
+        <input asp-for = "TotalCash" type="text" class="form-control">
+    </div>
+</div>
+<button  type="submit">Enter</button>
+
+</form>

@@ -1,0 +1,21 @@
+@model Transaction.ResponseModel.ProductResponse;
+<p style="color: red; font-weight: bold;">Update a product by filling out the form below</p>
+<form method="Post">
+    <div class="col-md-6" style = "margin-top:40px; font-size: larger; font -weight: bold;colour: darkcyan">
+         <label name="Name" class= "form-label">Name</label>
+        <input value="@Model.Data.Name" name = "Name" type="text" class="form-control">
+        <label name="Description" class= "form-label">Description</label>
+        <input value="@Model.Data.Description" name = "Description" type="text" class="form-control">
+        <label name="UnitOfMeasurement" class= "form-label">Unit Of Measurement</label>
+        <input value="@Model.Data.UnitOfMeasurement" name = "UnitOfMeasurement" type="text" class="form-control">
+        <label name="UnitPrice" class= "form-label">Unit Price</label>
+        <input value="@Model.Data.UnitPrice" name = "UnitPrice" type="text" class="form-control">
+        <label name="CategoryQuantity" class= "form-label">Category Quantity  (*optional*)</label>
+        <input value="" name = "CategoryQuantity" type="text" class="form-control">
+        <label name="CategoryPrice" class= "form-label">Category Price  (*optional*)</label>
+        <input value=""name = "CategoryPrice" type="text" class="form-control">
+        <label name="Category" class= "form-label">Category (*optional*)</label>
+        <input value=""name = "Category" type="text" class="form-control">
+    </div>
+    <button type="submit">Update</button>
+</form>

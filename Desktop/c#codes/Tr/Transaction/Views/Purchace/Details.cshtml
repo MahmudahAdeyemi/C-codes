@@ -1,0 +1,28 @@
+@model Transaction.ResponseModel.PurchaceResponseModel;
+<style>
+    a:hover{
+        font-size: 120%;
+    }
+</style>
+<h1>Details about the purchase</h1>
+<table class="table table-sm table-hover">
+    <thead>
+        <tr>
+                <th>Name</th>
+                <th>Quantity</th>
+                <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (int i = 0; i < Model.Data.ProductName.Count(); i++)
+        {
+            <tr>
+                <td>@Model.Data.ProductName[i]</td>
+                <td>@Model.Data.ProductQuantity[i]</td>
+                <td>@Model.Data.PurchasedPrice[i]</td>
+            </tr>
+        }
+       
+    </tbody>
+</table>
+<button><a asp-action="Index">Back</a></button>

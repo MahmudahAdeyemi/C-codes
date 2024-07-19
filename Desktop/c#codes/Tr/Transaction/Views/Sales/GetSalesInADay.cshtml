@@ -1,0 +1,67 @@
+@model Transaction.ResponseModel.SalesResponseModel ;
+<style>
+    a:hover{    
+        font-size: 120%;
+    }
+</style>
+
+@if (@Model.Data.Count() != 0)
+{
+    <table class="table table-sm table-hover">
+        <h1>Sales Since Morning</h1>
+            <thead>
+                <tr>
+                    <th>S/N</th>
+                    <th>TimeOfTransaction</th>
+                    <th>Products</th>
+                    <th>Quantity</th>
+                    <th>SalesRep</th>
+                    <th>Total Price</th>
+                    <th>Payment Status</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                <td>
+                    @{int count = 0;}
+                        @foreach (var item in Model.Data)
+                        {
+                            count ++;
+                            
+                            @for (int i = 0; i < item.ProductName.Count(); i++)
+                            {
+                                <tr>
+                                @if (i > 0)
+                                {
+                                    <td></td>
+                                    <td></td>
+                                    <td>@item.ProductName[i]</td>
+                                    <td>@item.ProductQuantity[i]</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                }
+                                else
+                                {
+                                    <td>@count</td>
+                                    <td>@item.TimeOfTransaction</td>
+                                    <td>@item.ProductName[i]</td>
+                                    <td>@item.ProductQuantity[i]</td>
+                                    <td>@item.SalesRep</td>
+                                    <td>@item.TotalPrice</td>
+                                    <td>@item.PaymentStatus</td>
+                                }
+                                </tr>
+                            }
+                            
+                        }
+                </td>
+            </tbody>
+    </table>
+    
+}
+else
+{
+    <h1>There have been no sales since morning</h1>
+}
+<button><a asp-action="Index">Back</a></button>

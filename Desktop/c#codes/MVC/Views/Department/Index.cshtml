@@ -1,0 +1,46 @@
+@model IEnumerable<MVC.ENTITIES.Department>;
+@{
+    TempData["name"] = "@Model.Name";
+}
+<style>
+    a:hover{
+        font-size: 120%;
+    }
+</style>
+
+<h1>List of Departments</h1>
+
+<table class="table table-sm table-hover">
+    <thead>
+        <tr>
+            <th>S/N</th>
+            <th>Name</th>
+            <th>Details</th>
+            <th>Update</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{int count =0;}
+        @foreach (var item in Model)
+        {
+            count ++;
+            <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.Id" > Details </a>
+            </td>
+             <td>
+                <a asp-action="Update" asp-route-id="@item.Id" > Update </a>
+            </td>
+             <td>
+                <a asp-action="Delete" asp-route-id="@item.Id" > Delete </a>
+            </td>
+            </tr> 
+        }
+       
+    </tbody>
+
+    <p><button><a asp-action="Create">Add Department</a></button></p>
+</table>

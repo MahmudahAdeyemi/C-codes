@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\method example\bin\Debug\net6.0\method example.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\method example\bin\Debug\net6.0\method example.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\method example\bin\Debug\net6.0\method example.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\method example\bin\Debug\net6.0\method example.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\method example\bin\Debug\net6.0\ref\method example.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\method example\bin\Debug\net6.0\method example.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\method example\obj\Debug\net6.0\method example.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\method example\obj\Debug\net6.0\method example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\method example\obj\Debug\net6.0\method example.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\method example\obj\Debug\net6.0\method example.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\method example\obj\Debug\net6.0\method example.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\method example\obj\Debug\net6.0\method example.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\method example\obj\Debug\net6.0\ref\method example.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\method example\obj\Debug\net6.0\method example.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\method example\obj\Debug\net6.0\method example.genruntimeconfig.cache

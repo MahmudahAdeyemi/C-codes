@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7IlWNIDBFr1Hwcmfq1fZa7vgj9Hlk8xt5wCa1tEwj5Fnlvs95D67L7bYEtPIiL8bEJDkYBRVEctnka0TxVIlPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADEYEMI-M\\Desktop\\c#codes\\TicketingService\\TicketingService\\TicketingService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADEYEMI-M\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ADEYEMI-M\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ADEYEMI-M\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\ADEYEMI-M\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\ADEYEMI-M\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\ADEYEMI-M\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,30 @@
+﻿@model EcommerceOfficial.ResponseModel.ProductDto
+<style>
+    a:hover {
+        font-size: 120%;
+    }
+</style>
+<table class="table table-sm table-hover">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Image</th>
+            <th>Quantity</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.Name</td>
+            <td>@Model .Description</td>
+            <td>@Model.Price</td>
+            <td>
+                <img src="/ProfilePictures/@Model.Image" width="100" height="200"/>
+            </td>
+            <td>@Model.QuantityAvailable</td>
+        </tr>
+
+    </tbody>
+</table>
+<button><a asp-action="GetAllProduct">Back</a></button>

@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\stack\bin\Debug\net6.0\stack.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\stack\bin\Debug\net6.0\stack.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\stack\bin\Debug\net6.0\stack.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\stack\bin\Debug\net6.0\stack.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\stack\bin\Debug\net6.0\ref\stack.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\stack\bin\Debug\net6.0\stack.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\stack\obj\Debug\net6.0\stack.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\stack\obj\Debug\net6.0\stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\stack\obj\Debug\net6.0\stack.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\stack\obj\Debug\net6.0\stack.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\stack\obj\Debug\net6.0\stack.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\stack\obj\Debug\net6.0\stack.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\stack\obj\Debug\net6.0\ref\stack.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\stack\obj\Debug\net6.0\stack.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\stack\obj\Debug\net6.0\stack.genruntimeconfig.cache

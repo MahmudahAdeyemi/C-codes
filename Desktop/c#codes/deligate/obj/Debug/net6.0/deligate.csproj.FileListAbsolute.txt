@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\deligate\bin\Debug\net6.0\deligate.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\deligate\bin\Debug\net6.0\deligate.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\deligate\bin\Debug\net6.0\deligate.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\deligate\bin\Debug\net6.0\deligate.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\deligate\bin\Debug\net6.0\ref\deligate.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\deligate\bin\Debug\net6.0\deligate.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\deligate\obj\Debug\net6.0\deligate.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\deligate\obj\Debug\net6.0\deligate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\deligate\obj\Debug\net6.0\deligate.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\deligate\obj\Debug\net6.0\deligate.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\deligate\obj\Debug\net6.0\deligate.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\deligate\obj\Debug\net6.0\deligate.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\deligate\obj\Debug\net6.0\ref\deligate.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\deligate\obj\Debug\net6.0\deligate.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\deligate\obj\Debug\net6.0\deligate.genruntimeconfig.cache

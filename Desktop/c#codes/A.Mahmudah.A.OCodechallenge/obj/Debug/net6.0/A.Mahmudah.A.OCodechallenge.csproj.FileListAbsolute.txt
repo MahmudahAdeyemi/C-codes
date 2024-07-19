@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\A.Mahmudah.A.OCodechallenge\bin\Debug\net6.0\A.Mahmudah.A.OCodechallenge.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\A.Mahmudah.A.OCodechallenge\bin\Debug\net6.0\A.Mahmudah.A.OCodechallenge.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\A.Mahmudah.A.OCodechallenge\bin\Debug\net6.0\A.Mahmudah.A.OCodechallenge.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\A.Mahmudah.A.OCodechallenge\bin\Debug\net6.0\A.Mahmudah.A.OCodechallenge.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\A.Mahmudah.A.OCodechallenge\bin\Debug\net6.0\ref\A.Mahmudah.A.OCodechallenge.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\A.Mahmudah.A.OCodechallenge\bin\Debug\net6.0\A.Mahmudah.A.OCodechallenge.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\A.Mahmudah.A.OCodechallenge\obj\Debug\net6.0\A.Mahmudah.A.OCodechallenge.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\A.Mahmudah.A.OCodechallenge\obj\Debug\net6.0\A.Mahmudah.A.OCodechallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\A.Mahmudah.A.OCodechallenge\obj\Debug\net6.0\A.Mahmudah.A.OCodechallenge.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\A.Mahmudah.A.OCodechallenge\obj\Debug\net6.0\A.Mahmudah.A.OCodechallenge.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\A.Mahmudah.A.OCodechallenge\obj\Debug\net6.0\A.Mahmudah.A.OCodechallenge.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\A.Mahmudah.A.OCodechallenge\obj\Debug\net6.0\A.Mahmudah.A.OCodechallenge.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\A.Mahmudah.A.OCodechallenge\obj\Debug\net6.0\ref\A.Mahmudah.A.OCodechallenge.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\A.Mahmudah.A.OCodechallenge\obj\Debug\net6.0\A.Mahmudah.A.OCodechallenge.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\A.Mahmudah.A.OCodechallenge\obj\Debug\net6.0\A.Mahmudah.A.OCodechallenge.genruntimeconfig.cache

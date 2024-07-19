@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\tram\bin\Debug\net6.0\tram.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\tram\bin\Debug\net6.0\tram.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\tram\bin\Debug\net6.0\tram.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\tram\bin\Debug\net6.0\tram.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\tram\bin\Debug\net6.0\ref\tram.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\tram\bin\Debug\net6.0\tram.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\tram\obj\Debug\net6.0\tram.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\tram\obj\Debug\net6.0\tram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\tram\obj\Debug\net6.0\tram.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\tram\obj\Debug\net6.0\tram.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\tram\obj\Debug\net6.0\tram.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\tram\obj\Debug\net6.0\tram.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\tram\obj\Debug\net6.0\ref\tram.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\tram\obj\Debug\net6.0\tram.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\tram\obj\Debug\net6.0\tram.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\array_list\bin\Debug\net6.0\array_list.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\array_list\bin\Debug\net6.0\array_list.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\array_list\bin\Debug\net6.0\array_list.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\array_list\bin\Debug\net6.0\array_list.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\array_list\bin\Debug\net6.0\ref\array_list.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\array_list\bin\Debug\net6.0\array_list.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\array_list\obj\Debug\net6.0\array_list.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\array_list\obj\Debug\net6.0\array_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\array_list\obj\Debug\net6.0\array_list.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\array_list\obj\Debug\net6.0\array_list.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\array_list\obj\Debug\net6.0\array_list.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\array_list\obj\Debug\net6.0\array_list.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\array_list\obj\Debug\net6.0\ref\array_list.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\array_list\obj\Debug\net6.0\array_list.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\array_list\obj\Debug\net6.0\array_list.genruntimeconfig.cache

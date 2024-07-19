@@ -1,0 +1,244 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Transaction
+build_property.RootNamespace = Transaction
+build_property.ProjectDir = C:\Users\ADEYEMI-M\Desktop\c#codes\Tr\Transaction\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ADEYEMI-M\Desktop\c#codes\Tr\Transaction
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Manager/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Manager/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Manager/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Manager/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Manager/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Product/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Purchace/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVyY2hhY2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Purchace/GetPurchase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVyY2hhY2VcR2V0UHVyY2hhc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Purchace/GetPurchaseByMonth.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVyY2hhY2VcR2V0UHVyY2hhc2VCeU1vbnRoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Purchace/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVyY2hhY2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Purchace/NoOfProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVyY2hhY2VcTm9PZlByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Purchace/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVyY2hhY2VcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/SalesRep/AddSales.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNSZXBcQWRkU2FsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/SalesRep/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNSZXBcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/SalesRep/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNSZXBcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/SalesRep/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNSZXBcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/SalesRep/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNSZXBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/SalesRep/InputCash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNSZXBcSW5wdXRDYXNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/SalesRep/TotalPrice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNSZXBcVG90YWxQcmljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/SalesRep/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNSZXBcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Sales/AccountBalance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcQWNjb3VudEJhbGFuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Sales/ClosingStock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcQ2xvc2luZ1N0b2NrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Sales/GetClosingStock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcR2V0Q2xvc2luZ1N0b2NrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Sales/GetDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcR2V0RGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Sales/GetDateandPaymentStatus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcR2V0RGF0ZWFuZFBheW1lbnRTdGF0dXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Sales/GetGoodsReleased.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcR2V0R29vZHNSZWxlYXNlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Sales/GetGoodsReturned.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcR2V0R29vZHNSZXR1cm5lZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Sales/GetOpeningStock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcR2V0T3BlbmluZ1N0b2NrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Sales/GetSalesInADay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcR2V0U2FsZXNJbkFEYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Sales/GetSalesInDay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcR2V0U2FsZXNJbkRheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Sales/GetSalesRep.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcR2V0U2FsZXNSZXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Sales/GoodsReleased.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcR29vZHNSZWxlYXNlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Sales/GoodsReturned.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcR29vZHNSZXR1cm5lZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Sales/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Sales/OpeningStock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcT3BlbmluZ1N0b2NrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Sales/ReturnSales.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcUmV0dXJuU2FsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Sales/SalesRep.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcU2FsZXNSZXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Sales/SalesToBeReturned.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcU2FsZXNUb0JlUmV0dXJuZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/ShopItem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcEl0ZW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/StoreItem/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVJdGVtXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/StoreItem/GoodToBeReleased.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVJdGVtXEdvb2RUb0JlUmVsZWFzZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/StoreItem/GoodToBeReturned.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVJdGVtXEdvb2RUb0JlUmV0dXJuZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/StoreItem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVJdGVtXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/StoreItem/NoOfProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVJdGVtXE5vT2ZQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/StoreItem/NoOfProducttoBeRealesed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVJdGVtXE5vT2ZQcm9kdWN0dG9CZVJlYWxlc2VkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/StoreItem/NoOfProducttoBeReturned.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVJdGVtXE5vT2ZQcm9kdWN0dG9CZVJldHVybmVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADEYEMI-M/Desktop/c\#codes/Tr/Transaction/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-n9qg36t8qq

@@ -1,0 +1,29 @@
+@model MVC.ENTITIES.Student;
+<style>
+    a:hover{
+        font-size: 120%;
+    }
+</style>
+<h1>Student's Information</h1>
+<table class="table table-sm table-hover">
+    <thead>
+        <tr>
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>Age</th>
+            <th>Email</th>
+            <th>Password</th>
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>@Model.FName</td>
+                <td>@Model.LName</td>
+                <td>@Model.Age</td>
+                <td>@Model.Email</td>
+                <td>@Model.Password</td>
+            
+       
+    </tbody>
+</table>
+<button><a asp-action="Index">Back</a></button>

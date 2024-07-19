@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\2 dimensional array example\bin\Debug\net6.0\2 dimensional array example.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\2 dimensional array example\bin\Debug\net6.0\2 dimensional array example.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\2 dimensional array example\bin\Debug\net6.0\2 dimensional array example.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\2 dimensional array example\bin\Debug\net6.0\2 dimensional array example.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\2 dimensional array example\bin\Debug\net6.0\ref\2 dimensional array example.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\2 dimensional array example\bin\Debug\net6.0\2 dimensional array example.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\2 dimensional array example\obj\Debug\net6.0\2 dimensional array example.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\2 dimensional array example\obj\Debug\net6.0\2 dimensional array example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\2 dimensional array example\obj\Debug\net6.0\2 dimensional array example.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\2 dimensional array example\obj\Debug\net6.0\2 dimensional array example.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\2 dimensional array example\obj\Debug\net6.0\2 dimensional array example.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\2 dimensional array example\obj\Debug\net6.0\2 dimensional array example.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\2 dimensional array example\obj\Debug\net6.0\ref\2 dimensional array example.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\2 dimensional array example\obj\Debug\net6.0\2 dimensional array example.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\2 dimensional array example\obj\Debug\net6.0\2 dimensional array example.genruntimeconfig.cache

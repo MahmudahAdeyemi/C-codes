@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\bank_account\bin\Debug\net6.0\bank_account.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\bank_account\bin\Debug\net6.0\bank_account.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\bank_account\bin\Debug\net6.0\bank_account.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\bank_account\bin\Debug\net6.0\bank_account.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\bank_account\bin\Debug\net6.0\ref\bank_account.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\bank_account\bin\Debug\net6.0\bank_account.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\bank_account\obj\Debug\net6.0\bank_account.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\bank_account\obj\Debug\net6.0\bank_account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\bank_account\obj\Debug\net6.0\bank_account.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\bank_account\obj\Debug\net6.0\bank_account.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\bank_account\obj\Debug\net6.0\bank_account.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\bank_account\obj\Debug\net6.0\bank_account.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\bank_account\obj\Debug\net6.0\ref\bank_account.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\bank_account\obj\Debug\net6.0\bank_account.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\bank_account\obj\Debug\net6.0\bank_account.genruntimeconfig.cache

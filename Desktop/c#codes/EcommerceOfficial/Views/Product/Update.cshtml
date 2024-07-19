@@ -1,0 +1,20 @@
+﻿@model EcommerceOfficial.RequestModel.ProductRequestModel
+<p style="color: red; font-weight: bold;">Add a product by filling out the form below</p>
+<form method="Post" enctype="multipart/form-data">
+    <div class="col-md-6" style="margin-top:40px; font-size: larger; font -weight: bold;colour: darkcyan">
+        <label asp-for="Name" class="form-label">Name</label>
+        <input asp-for="Name" type="text" class="form-control">
+        <label asp-for="QuantityAvailable" class="form-label">Quantity</label>
+        <input asp-for="QuantityAvailable" type="text" class="form-control">
+        <label asp-for="Price" class="form-label">Price</label>
+        <input asp-for="Price" type="text" class="form-control">
+        <label asp-for="Category" class="form-label">Category </label>
+        <input asp-for="Category" type="text" class="form-control">
+        <div class="col-md-6" style="margin-top:40px; font-size: larger; font -weight: bold;colour: darkcyan">
+            <label asp-for="Image" class="form-label">Image</label>
+            <input asp-for="Image" type="file" class="form-control">
+        </div>
+    </div>
+
+    <button type="submit">Add</button>
+</form>

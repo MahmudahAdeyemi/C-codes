@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\bublesort\bin\Debug\net6.0\bublesort.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\bublesort\bin\Debug\net6.0\bublesort.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\bublesort\bin\Debug\net6.0\bublesort.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\bublesort\bin\Debug\net6.0\bublesort.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\bublesort\bin\Debug\net6.0\ref\bublesort.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\bublesort\bin\Debug\net6.0\bublesort.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\bublesort\obj\Debug\net6.0\bublesort.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\bublesort\obj\Debug\net6.0\bublesort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\bublesort\obj\Debug\net6.0\bublesort.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\bublesort\obj\Debug\net6.0\bublesort.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\bublesort\obj\Debug\net6.0\bublesort.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\bublesort\obj\Debug\net6.0\bublesort.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\bublesort\obj\Debug\net6.0\ref\bublesort.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\bublesort\obj\Debug\net6.0\bublesort.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\bublesort\obj\Debug\net6.0\bublesort.genruntimeconfig.cache

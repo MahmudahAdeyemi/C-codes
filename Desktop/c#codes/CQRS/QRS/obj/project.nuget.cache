@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fcTAsrCdYiqz3GjKdzHJNC+wgk5gg85Yj6fh6e7b+vNXUMUr+Pap9S5f2l4ebg5vcNndGqWc8sa6Hp1rAYbJ0w==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\ADEYEMI-M\\Desktop\\c#codes\\CQRS\\QRS\\QRS.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "System.IdentityModel.Tokens.Jwt"
+    }
+  ]
+}

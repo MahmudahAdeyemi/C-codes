@@ -1,0 +1,14 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\EventsAndDelegate\bin\Debug\net8.0\EventsAndDelegate.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\EventsAndDelegate\bin\Debug\net8.0\EventsAndDelegate.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\EventsAndDelegate\bin\Debug\net8.0\EventsAndDelegate.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\EventsAndDelegate\bin\Debug\net8.0\EventsAndDelegate.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\EventsAndDelegate\bin\Debug\net8.0\EventsAndDelegate.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\EventsAndDelegate\obj\Debug\net8.0\EventsAndDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\EventsAndDelegate\obj\Debug\net8.0\EventsAndDelegate.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\EventsAndDelegate\obj\Debug\net8.0\EventsAndDelegate.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\EventsAndDelegate\obj\Debug\net8.0\EventsAndDelegate.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\EventsAndDelegate\obj\Debug\net8.0\EventsAndDelegate.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\EventsAndDelegate\obj\Debug\net8.0\refint\EventsAndDelegate.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\EventsAndDelegate\obj\Debug\net8.0\EventsAndDelegate.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\EventsAndDelegate\obj\Debug\net8.0\EventsAndDelegate.genruntimeconfig.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\EventsAndDelegate\obj\Debug\net8.0\ref\EventsAndDelegate.dll

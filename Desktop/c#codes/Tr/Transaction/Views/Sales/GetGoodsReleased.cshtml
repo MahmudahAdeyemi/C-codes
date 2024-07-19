@@ -1,0 +1,8 @@
+@model Transaction.RequestModel.OneDateRequestModel;
+<form method="Post">
+    <div class="col-md-6" style = "margin-top:40px; font-size: larger; font -weight: bold;colour: darkcyan">
+        <label asp-for="OpeningStockDate" class= "form-label">Date</label>
+        <input asp-for = "OpeningStockDate" type="date" class="form-control">
+    </div>
+    <button type="submit">Next</button>
+</form>

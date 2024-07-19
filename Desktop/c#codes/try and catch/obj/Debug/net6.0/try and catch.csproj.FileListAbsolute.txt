@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\try and catch\bin\Debug\net6.0\try and catch.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\try and catch\bin\Debug\net6.0\try and catch.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\try and catch\bin\Debug\net6.0\try and catch.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\try and catch\bin\Debug\net6.0\try and catch.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\try and catch\bin\Debug\net6.0\ref\try and catch.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\try and catch\bin\Debug\net6.0\try and catch.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\try and catch\obj\Debug\net6.0\try and catch.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\try and catch\obj\Debug\net6.0\try and catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\try and catch\obj\Debug\net6.0\try and catch.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\try and catch\obj\Debug\net6.0\try and catch.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\try and catch\obj\Debug\net6.0\try and catch.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\try and catch\obj\Debug\net6.0\try and catch.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\try and catch\obj\Debug\net6.0\ref\try and catch.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\try and catch\obj\Debug\net6.0\try and catch.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\try and catch\obj\Debug\net6.0\try and catch.genruntimeconfig.cache

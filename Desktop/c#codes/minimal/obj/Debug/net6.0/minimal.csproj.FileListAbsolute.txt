@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\minimal\bin\Debug\net6.0\minimal.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\minimal\bin\Debug\net6.0\minimal.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\minimal\bin\Debug\net6.0\minimal.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\minimal\bin\Debug\net6.0\minimal.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\minimal\bin\Debug\net6.0\ref\minimal.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\minimal\bin\Debug\net6.0\minimal.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\minimal\obj\Debug\net6.0\minimal.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\minimal\obj\Debug\net6.0\minimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\minimal\obj\Debug\net6.0\minimal.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\minimal\obj\Debug\net6.0\minimal.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\minimal\obj\Debug\net6.0\minimal.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\minimal\obj\Debug\net6.0\minimal.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\minimal\obj\Debug\net6.0\ref\minimal.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\minimal\obj\Debug\net6.0\minimal.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\minimal\obj\Debug\net6.0\minimal.genruntimeconfig.cache

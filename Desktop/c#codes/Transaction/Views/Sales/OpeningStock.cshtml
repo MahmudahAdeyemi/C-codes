@@ -1,0 +1,41 @@
+@model Transaction.ResponseModel.ShopItemResponse;
+<style>
+    a:hover{
+        font-size: 120%;
+    }
+</style>
+@if (@Model.Data .Count() != 0)
+{
+    <h1>Closing Stock</h1>
+
+    <table class="table table-sm table-hover">
+        
+        <thead>
+            <tr>
+                <th>S/N</th>
+                <th>Name</th>
+                <th>Product</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{int count =0;}
+            @foreach (var item in Model.Data)
+            {
+                count ++;
+                <tr>
+                <td>@count</td>
+                <td>@item.Name</td>
+                <td>@item.Quantity</td>
+                </tr> 
+                
+                
+            }
+        
+        </tbody>
+    </table>
+}
+else
+{
+    <h1>The opening stock was empty</h1>
+}
+<button><a asp-action="Index">Back</a></button>

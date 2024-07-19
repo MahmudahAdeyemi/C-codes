@@ -1,0 +1,14 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\Calculator\BasicCalculator\bin\Debug\net8.0\BasicCalculator.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\Calculator\BasicCalculator\bin\Debug\net8.0\BasicCalculator.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\Calculator\BasicCalculator\bin\Debug\net8.0\BasicCalculator.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\Calculator\BasicCalculator\bin\Debug\net8.0\BasicCalculator.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\Calculator\BasicCalculator\bin\Debug\net8.0\BasicCalculator.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\Calculator\BasicCalculator\obj\Debug\net8.0\BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\Calculator\BasicCalculator\obj\Debug\net8.0\BasicCalculator.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\Calculator\BasicCalculator\obj\Debug\net8.0\BasicCalculator.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\Calculator\BasicCalculator\obj\Debug\net8.0\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\Calculator\BasicCalculator\obj\Debug\net8.0\BasicCalculator.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\Calculator\BasicCalculator\obj\Debug\net8.0\refint\BasicCalculator.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\Calculator\BasicCalculator\obj\Debug\net8.0\BasicCalculator.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\Calculator\BasicCalculator\obj\Debug\net8.0\BasicCalculator.genruntimeconfig.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\Calculator\BasicCalculator\obj\Debug\net8.0\ref\BasicCalculator.dll

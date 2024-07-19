@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\extensiion_method\bin\Debug\net6.0\extensiion_method.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\extensiion_method\bin\Debug\net6.0\extensiion_method.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\extensiion_method\bin\Debug\net6.0\extensiion_method.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\extensiion_method\bin\Debug\net6.0\extensiion_method.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\extensiion_method\bin\Debug\net6.0\ref\extensiion_method.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\extensiion_method\bin\Debug\net6.0\extensiion_method.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\extensiion_method\obj\Debug\net6.0\extensiion_method.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\extensiion_method\obj\Debug\net6.0\extensiion_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\extensiion_method\obj\Debug\net6.0\extensiion_method.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\extensiion_method\obj\Debug\net6.0\extensiion_method.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\extensiion_method\obj\Debug\net6.0\extensiion_method.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\extensiion_method\obj\Debug\net6.0\extensiion_method.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\extensiion_method\obj\Debug\net6.0\ref\extensiion_method.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\extensiion_method\obj\Debug\net6.0\extensiion_method.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\extensiion_method\obj\Debug\net6.0\extensiion_method.genruntimeconfig.cache

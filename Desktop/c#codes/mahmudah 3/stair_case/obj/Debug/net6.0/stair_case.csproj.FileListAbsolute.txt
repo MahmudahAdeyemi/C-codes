@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\stair_case\bin\Debug\net6.0\stair_case.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\stair_case\bin\Debug\net6.0\stair_case.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\stair_case\bin\Debug\net6.0\stair_case.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\stair_case\bin\Debug\net6.0\stair_case.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\stair_case\bin\Debug\net6.0\ref\stair_case.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\stair_case\bin\Debug\net6.0\stair_case.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\stair_case\obj\Debug\net6.0\stair_case.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\stair_case\obj\Debug\net6.0\stair_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\stair_case\obj\Debug\net6.0\stair_case.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\stair_case\obj\Debug\net6.0\stair_case.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\stair_case\obj\Debug\net6.0\stair_case.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\stair_case\obj\Debug\net6.0\stair_case.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\stair_case\obj\Debug\net6.0\ref\stair_case.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\stair_case\obj\Debug\net6.0\stair_case.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\stair_case\obj\Debug\net6.0\stair_case.genruntimeconfig.cache

@@ -1,0 +1,49 @@
+@model Transaction.ResponseModel.StoreItemsResponseModel;
+<style>
+    a:hover{
+        font-size: 120%;
+    }
+</style>
+
+<h1>List of StockItem</h1>
+
+<style>
+    a:hover{
+        font-size: 120%;
+    }
+</style>
+
+<h1>List of ShopItem</h1>
+<table class="table table-sm table-hover">
+@if (@Model.Datas.Count() != 0)
+{
+    
+    <thead>
+        <tr>
+            <th>S/N</th>
+            <th>Name</th>
+            <th>Quantity</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{int count =0;}
+        @foreach (var item in Model.Datas)
+        {
+            count ++;
+            <tr>
+            <td>@count</td>
+            <td>@item.Name</td>
+            <td>@item.Quantity</td>
+            </tr> 
+        }
+    </tbody>
+    
+}
+else
+{
+    <h1>The shop is empty for now.</h1>
+}
+    <p><button><a asp-action="NoOfProduct">Add Purchase</a></button></p>
+    <p><button><a asp-action="NoOfProducttoBeRealesed">Realese Goods To Shop</a></button></p>
+    <p><button><a asp-action="NoOfProducttoBeReturned">Return Goods To Store</a></button></p>
+</table>    

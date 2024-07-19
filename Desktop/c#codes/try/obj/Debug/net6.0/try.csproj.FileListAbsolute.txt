@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\try\bin\Debug\net6.0\try.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\try\bin\Debug\net6.0\try.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\try\bin\Debug\net6.0\try.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\try\bin\Debug\net6.0\try.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\try\bin\Debug\net6.0\ref\try.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\try\bin\Debug\net6.0\try.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\try\obj\Debug\net6.0\try.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\try\obj\Debug\net6.0\try.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\try\obj\Debug\net6.0\try.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\try\obj\Debug\net6.0\try.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\try\obj\Debug\net6.0\try.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\try\obj\Debug\net6.0\try.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\try\obj\Debug\net6.0\ref\try.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\try\obj\Debug\net6.0\try.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\try\obj\Debug\net6.0\try.genruntimeconfig.cache

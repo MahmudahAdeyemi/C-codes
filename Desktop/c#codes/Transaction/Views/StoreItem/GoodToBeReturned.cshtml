@@ -1,0 +1,22 @@
+@model Transaction.RequestModel.GoodReleasedRequestModel ;
+<form method="Post">
+@for (int i = 0; i < int.Parse(TempData["NoOfProducts"].ToString()); i++)
+{
+    <div class="row">
+        <div class="col">
+            <label asp-for="Quantities">Quantity</label>
+            <input asp-for = "Quantities" type="text" class="form-control">
+        </div>
+        
+        <div class="col" style="font-size: larger; font-weight: bold; color: darkcyan">
+            <label asp-for="ProductIds"></label>
+                    <select asp-for="ProductIds" class="form-control" asp-items ="ViewBag.products">
+                        <option value="">--Select Product</option>
+                    </select>
+        </div>
+    </div>
+    
+}
+
+<button type="submit">Release</button>
+    </form>

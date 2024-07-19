@@ -1,0 +1,13 @@
+@model Transaction.RequestModel.GetFullNameRequestModel;
+<p style="color: red; font-weight: bold;">Input the firstname and lastname of the sales rep</p>
+<form method="Post">
+    <div class="col-md-6" style = "margin-top:40px; font-size: larger; font -weight: bold;colour: darkcyan">
+        <label asp-for="FirstName" class= "form-label">FirstName</label>
+        <input asp-for = "FirstName" type="text" class="form-control">
+    </div>
+    <div class="col-md-6" style = "margin-top:40px; font-size: larger; font -weight: bold;colour: darkcyan">
+        <label asp-for="LastName" class= "form-label">LastName</label>
+        <input asp-for = "LastName" type="text" class="form-control">
+    </div>
+    <button type="submit">Next</button>
+</form>

@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah2\ques 3\bin\Debug\net6.0\ques 3.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah2\ques 3\bin\Debug\net6.0\ques 3.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah2\ques 3\bin\Debug\net6.0\ques 3.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah2\ques 3\bin\Debug\net6.0\ques 3.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah2\ques 3\bin\Debug\net6.0\ref\ques 3.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah2\ques 3\bin\Debug\net6.0\ques 3.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah2\ques 3\obj\Debug\net6.0\ques 3.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah2\ques 3\obj\Debug\net6.0\ques 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah2\ques 3\obj\Debug\net6.0\ques 3.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah2\ques 3\obj\Debug\net6.0\ques 3.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah2\ques 3\obj\Debug\net6.0\ques 3.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah2\ques 3\obj\Debug\net6.0\ques 3.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah2\ques 3\obj\Debug\net6.0\ref\ques 3.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah2\ques 3\obj\Debug\net6.0\ques 3.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah2\ques 3\obj\Debug\net6.0\ques 3.genruntimeconfig.cache

@@ -1,0 +1,20 @@
+@using Transaction.Entities;
+@model Transaction.RequestModel.PaymentStatusAndDateRequestModel ;
+
+<form method="Post">
+<div class="col">
+            <label asp-for="Date">Date</label>
+            <input asp-for = "Date" type="date" class="form-control">
+        </div>
+<div class="col-md-6" style = "margin-top:40px; font-size: larger; font weight: bold;colour: darkcyan">
+        <div class="form-row">
+            <div class="col-md-6"style="margin-top: 20px; font-size: larger; font-weight: bold; color: darkcyan">
+                <select asp-for="paymentStatus" class="form-control" required>Payment Status
+                    <option value="@PaymentStatus.Transfer">Transfer</option>
+                    <option value="@PaymentStatus.Cash">Cash</option>
+                    <span asp-validation-for="paymentStatus" class="text-danger"></span>
+                </select>
+            </div>
+        </div>
+<button type="submit">Next</button>
+</form>

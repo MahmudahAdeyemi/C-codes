@@ -1,0 +1,57 @@
+@model Transaction.ResponseModel.GoodReleasedsResponse ;
+<style>
+    a:hover{
+        font-size: 120%;
+    }
+</style>
+@if (Model.Data.Count() != 0)
+{
+    <h1>Goods Released</h1>
+    <table class="table table-sm table-hover">
+        <thead>
+            <tr>
+                <th>S/N</th>
+                <th>TimeOfTransaction</th>
+                <th>Products</th>
+                <th>Quantity</th>
+            </tr>
+        </thead>
+        <tbody>
+            <td>
+                    @{int count = 0;}
+                    @foreach (var item in Model.Data)
+                    {
+                        count ++;
+                        @for (int i = 0; i < item.ProductName.Count(); i++)
+                        {
+                            <tr>
+                            @if (i > 0)
+                            {
+                                <td></td>
+                                <td></td>
+                                <td>@item.ProductName[i]</td>
+                                <td>@item.Quantity[i]</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            }
+                            else
+                            {
+                                <td>@count</td>
+                                <td>@item.DateReleased</td>
+                                <td>@item.ProductName[i]</td>
+                                <td>@item.Quantity[i]</td>
+                            }
+                            </tr>
+                        }                    
+                    }
+                </td>
+        
+        </tbody>
+    </table>
+}
+else
+{
+    <h1>No good was released that day.</h1>
+}
+<button><a asp-action="Index">Back</a></button>

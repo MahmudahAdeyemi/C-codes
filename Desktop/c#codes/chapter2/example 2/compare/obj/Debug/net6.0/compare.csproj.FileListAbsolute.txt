@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\compare\bin\Debug\net6.0\compare.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\compare\bin\Debug\net6.0\compare.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\compare\bin\Debug\net6.0\compare.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\compare\bin\Debug\net6.0\compare.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\compare\bin\Debug\net6.0\ref\compare.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\compare\bin\Debug\net6.0\compare.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\compare\obj\Debug\net6.0\compare.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\compare\obj\Debug\net6.0\compare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\compare\obj\Debug\net6.0\compare.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\compare\obj\Debug\net6.0\compare.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\compare\obj\Debug\net6.0\compare.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\compare\obj\Debug\net6.0\compare.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\compare\obj\Debug\net6.0\ref\compare.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\compare\obj\Debug\net6.0\compare.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\compare\obj\Debug\net6.0\compare.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\lamda\bin\Debug\net6.0\lamda.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\lamda\bin\Debug\net6.0\lamda.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\lamda\bin\Debug\net6.0\lamda.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\lamda\bin\Debug\net6.0\lamda.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\lamda\bin\Debug\net6.0\ref\lamda.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\lamda\bin\Debug\net6.0\lamda.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\lamda\obj\Debug\net6.0\lamda.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\lamda\obj\Debug\net6.0\lamda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\lamda\obj\Debug\net6.0\lamda.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\lamda\obj\Debug\net6.0\lamda.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\lamda\obj\Debug\net6.0\lamda.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\lamda\obj\Debug\net6.0\lamda.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\lamda\obj\Debug\net6.0\ref\lamda.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\lamda\obj\Debug\net6.0\lamda.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\lamda\obj\Debug\net6.0\lamda.genruntimeconfig.cache

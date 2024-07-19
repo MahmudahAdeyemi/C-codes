@@ -1,0 +1,6 @@
+@QRS_HostAddress = http://localhost:5268
+
+GET {{QRS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

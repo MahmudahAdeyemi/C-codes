@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\ques3\bin\Debug\net6.0\ques3.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\ques3\bin\Debug\net6.0\ques3.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\ques3\bin\Debug\net6.0\ques3.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\ques3\bin\Debug\net6.0\ques3.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\ques3\bin\Debug\net6.0\ref\ques3.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\ques3\bin\Debug\net6.0\ques3.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\ques3\obj\Debug\net6.0\ques3.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\ques3\obj\Debug\net6.0\ques3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\ques3\obj\Debug\net6.0\ques3.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\ques3\obj\Debug\net6.0\ques3.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\ques3\obj\Debug\net6.0\ques3.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\ques3\obj\Debug\net6.0\ques3.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\ques3\obj\Debug\net6.0\ref\ques3.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\ques3\obj\Debug\net6.0\ques3.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\ques3\obj\Debug\net6.0\ques3.genruntimeconfig.cache

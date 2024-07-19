@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\reader\bin\Debug\net6.0\reader.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\reader\bin\Debug\net6.0\reader.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\reader\bin\Debug\net6.0\reader.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\reader\bin\Debug\net6.0\reader.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\reader\bin\Debug\net6.0\ref\reader.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\reader\bin\Debug\net6.0\reader.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\reader\obj\Debug\net6.0\reader.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\reader\obj\Debug\net6.0\reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\reader\obj\Debug\net6.0\reader.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\reader\obj\Debug\net6.0\reader.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\reader\obj\Debug\net6.0\reader.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\reader\obj\Debug\net6.0\reader.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\reader\obj\Debug\net6.0\ref\reader.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\reader\obj\Debug\net6.0\reader.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\reader\obj\Debug\net6.0\reader.genruntimeconfig.cache

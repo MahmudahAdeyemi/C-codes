@@ -1,0 +1,26 @@
+@model MVC.ENTITIES.Department;
+<style>
+    a:hover{
+        font-size: 120%;
+    }
+</style>
+<h1>Student offering this subject</h1>
+<table class="table table-sm table-hover">
+    <thead>
+        <tr>
+            <th>FirstName</th>
+            <th>LastName</th>
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+            @foreach (var student in Model.Students)
+            {
+                <td>@student.FName</td>
+                <td>@student.LName</td>
+            }
+            </tr>
+       
+    </tbody>
+</table>
+<button><a asp-action="Index">Back</a></button>

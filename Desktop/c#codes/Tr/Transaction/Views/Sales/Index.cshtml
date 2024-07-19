@@ -1,0 +1,47 @@
+@model Transaction.ResponseModel.SalesResponseModel;
+<style>
+    a:hover{
+        font-size: 120%;
+    }
+</style>
+
+<h6>List of Sales</h6>
+
+<table class="table table-sm table-hover">
+    <thead>
+        <tr>
+            <th>S/N</th>
+            <th>Time Of Transaction</th>
+            <th>SalesRep</th>
+            <th>Total Price</th>
+            <th>Payment Status</th>>
+        </tr>
+    </thead>
+    <tbody>
+        @{int count =0;}
+        @foreach (var item in Model.Data)
+        {
+            count ++;
+            <tr>
+            <td>@count</td>
+            <td>@item.TimeOfTransaction</td>
+            <td>@item.SalesRep</td>
+            <td>@item.TotalPrice</td>
+            <td>@item.PaymentStatus</td>
+            </tr> 
+            
+            
+        }
+       
+    </tbody>
+</table>
+<p><button><a asp-action="GetSalesInADay"> Get Sales In A Day </a></button></p>
+<p><button><a asp-action="GetSalesInDay"> Get Sales Within DateRange </a></button></p>
+<p><button><a asp-action="GetOpeningStock"> Get Opening Stock </a></button></p>
+<p><button><a asp-action="GetClosingStock"> Get Closing Stock </a></button></p>
+<p><button><a asp-action="GetSalesRep"> Get Sales Rep </a></button></p>
+<p><button><a asp-action="GetGoodsReleased"> Get GoodsReleased Per Day</a></button></p>
+<p><button><a asp-action="GetGoodsReturned"> Get GoodsReturned Per Day</a></button></p>
+<p><button><a asp-action="GetDateandPaymentStatus"> Get Sales With Payment Status and Date</a></button></p>
+<p><button><a asp-action="GetValidClosingStock">Input Closing Stock For The Day</a></button></p>
+<p><button><a asp-action="GetDate">Check Whether Account Is Balance</a></button></p>

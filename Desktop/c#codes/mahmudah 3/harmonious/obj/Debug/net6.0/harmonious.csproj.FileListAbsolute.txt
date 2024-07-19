@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\harmonious\bin\Debug\net6.0\harmonious.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\harmonious\bin\Debug\net6.0\harmonious.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\harmonious\bin\Debug\net6.0\harmonious.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\harmonious\bin\Debug\net6.0\harmonious.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\harmonious\bin\Debug\net6.0\ref\harmonious.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\harmonious\bin\Debug\net6.0\harmonious.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\harmonious\obj\Debug\net6.0\harmonious.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\harmonious\obj\Debug\net6.0\harmonious.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\harmonious\obj\Debug\net6.0\harmonious.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\harmonious\obj\Debug\net6.0\harmonious.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\harmonious\obj\Debug\net6.0\harmonious.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\harmonious\obj\Debug\net6.0\harmonious.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\harmonious\obj\Debug\net6.0\ref\harmonious.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\harmonious\obj\Debug\net6.0\harmonious.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\harmonious\obj\Debug\net6.0\harmonious.genruntimeconfig.cache

@@ -1,0 +1,29 @@
+@using Transaction.Entities
+@model Transaction.RequestModel.GetPurchaseByMonthRequestModel;
+<p style="color: red; font-weight: bold;">Input Month</p>
+<form method="Post">
+    <div class="col-md-6" style = "margin-top:40px; font-size: larger; font weight: bold;colour: darkcyan">
+        <div class="form-row">
+            <div class="col-md-6"style="margin-top: 20px; font-size: larger; font-weight: bold; color: darkcyan">
+                <label asp-for="month" class="control-label">Month</label>
+                <select asp-for="month" class="form-control" required>Select Month
+                    <option value="@Month.January">January</option>
+                    <option value="@Month.February">February</option>
+                    <option value="@Month.March">March</option>
+                    <option value="@Month.April">April</option>
+                    <option value="@Month.May">May</option>
+                    <option value="@Month.July">July</option>
+                    <option value="@Month.August">August</option>
+                    <option value="@Month.September">September</option>
+                    <option value="@Month.October">October</option>
+                    <option value="@Month.November">November</option>
+                    <option value="@Month.December">December</option>
+                    <span asp-validation-for="month" class="text-danger"></span>
+                </select>
+            </div>
+        </div>
+        
+    </div>
+
+    <button type="submit">Next</button>
+</form>

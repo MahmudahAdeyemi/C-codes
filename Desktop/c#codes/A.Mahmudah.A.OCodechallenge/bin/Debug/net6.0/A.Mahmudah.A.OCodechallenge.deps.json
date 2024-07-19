@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "A.Mahmudah.A.OCodechallenge/1.0.0": {
+        "runtime": {
+          "A.Mahmudah.A.OCodechallenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A.Mahmudah.A.OCodechallenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

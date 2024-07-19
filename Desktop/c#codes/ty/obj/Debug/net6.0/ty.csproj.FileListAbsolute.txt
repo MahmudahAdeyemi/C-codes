@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\ty\bin\Debug\net6.0\ty.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\ty\bin\Debug\net6.0\ty.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\ty\bin\Debug\net6.0\ty.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\ty\bin\Debug\net6.0\ty.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\ty\bin\Debug\net6.0\ref\ty.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\ty\bin\Debug\net6.0\ty.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\ty\obj\Debug\net6.0\ty.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\ty\obj\Debug\net6.0\ty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\ty\obj\Debug\net6.0\ty.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\ty\obj\Debug\net6.0\ty.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\ty\obj\Debug\net6.0\ty.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\ty\obj\Debug\net6.0\ty.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\ty\obj\Debug\net6.0\ref\ty.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\ty\obj\Debug\net6.0\ty.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\ty\obj\Debug\net6.0\ty.genruntimeconfig.cache

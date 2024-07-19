@@ -1,0 +1,11 @@
+@model Transaction.RequestModel.DateRequestModel;
+<form method="Post">
+    <div class="col-md-6" style = "margin-top:40px; font-size: larger; font -weight: bold;colour: darkcyan">
+        <label asp-for="StartingDate" class= "form-label">StartingDate</label>
+        <input asp-for = "StartingDate" type="date" class="form-control">
+        <label asp-for="EndingDate" class= "form-label">EndingDate</label>
+        <input asp-for = "EndingDate" type="date" class="form-control">
+        
+    </div>
+    <button type="submit">Create</button>
+</form>

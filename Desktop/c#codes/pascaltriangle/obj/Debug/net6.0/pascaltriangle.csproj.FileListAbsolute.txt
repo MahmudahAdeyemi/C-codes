@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\pascaltriangle\bin\Debug\net6.0\pascaltriangle.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\pascaltriangle\bin\Debug\net6.0\pascaltriangle.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\pascaltriangle\bin\Debug\net6.0\pascaltriangle.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\pascaltriangle\bin\Debug\net6.0\pascaltriangle.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\pascaltriangle\bin\Debug\net6.0\ref\pascaltriangle.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\pascaltriangle\bin\Debug\net6.0\pascaltriangle.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\pascaltriangle\obj\Debug\net6.0\pascaltriangle.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\pascaltriangle\obj\Debug\net6.0\pascaltriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\pascaltriangle\obj\Debug\net6.0\pascaltriangle.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\pascaltriangle\obj\Debug\net6.0\pascaltriangle.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\pascaltriangle\obj\Debug\net6.0\pascaltriangle.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\pascaltriangle\obj\Debug\net6.0\pascaltriangle.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\pascaltriangle\obj\Debug\net6.0\ref\pascaltriangle.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\pascaltriangle\obj\Debug\net6.0\pascaltriangle.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\pascaltriangle\obj\Debug\net6.0\pascaltriangle.genruntimeconfig.cache

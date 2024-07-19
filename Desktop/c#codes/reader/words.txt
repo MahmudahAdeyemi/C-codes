@@ -1,0 +1,13 @@
+﻿sky
+cloud
+falcon
+hawk
+sky
+lake
+armour
+sword
+arrow
+bike
+brown
+blue
+khaki

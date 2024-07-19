@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\exer4\bin\Debug\net6.0\exer4.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\exer4\bin\Debug\net6.0\exer4.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\exer4\bin\Debug\net6.0\exer4.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\exer4\bin\Debug\net6.0\exer4.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\exer4\bin\Debug\net6.0\ref\exer4.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\exer4\bin\Debug\net6.0\exer4.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\exer4\obj\Debug\net6.0\exer4.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\exer4\obj\Debug\net6.0\exer4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\exer4\obj\Debug\net6.0\exer4.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\exer4\obj\Debug\net6.0\exer4.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\exer4\obj\Debug\net6.0\exer4.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\exer4\obj\Debug\net6.0\exer4.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\exer4\obj\Debug\net6.0\ref\exer4.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\exer4\obj\Debug\net6.0\exer4.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\exer4\obj\Debug\net6.0\exer4.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\admiission\bin\Debug\net6.0\admiission.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\admiission\bin\Debug\net6.0\admiission.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\admiission\bin\Debug\net6.0\admiission.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\admiission\bin\Debug\net6.0\admiission.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\admiission\bin\Debug\net6.0\ref\admiission.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\admiission\bin\Debug\net6.0\admiission.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\admiission\obj\Debug\net6.0\admiission.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\admiission\obj\Debug\net6.0\admiission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\admiission\obj\Debug\net6.0\admiission.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\admiission\obj\Debug\net6.0\admiission.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\admiission\obj\Debug\net6.0\admiission.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\admiission\obj\Debug\net6.0\admiission.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\admiission\obj\Debug\net6.0\ref\admiission.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\admiission\obj\Debug\net6.0\admiission.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\admiission\obj\Debug\net6.0\admiission.genruntimeconfig.cache

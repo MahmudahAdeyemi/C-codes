@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\generic\bin\Debug\net6.0\generic.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\generic\bin\Debug\net6.0\generic.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\generic\bin\Debug\net6.0\generic.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\generic\bin\Debug\net6.0\generic.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\generic\bin\Debug\net6.0\ref\generic.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\generic\bin\Debug\net6.0\generic.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\generic\obj\Debug\net6.0\generic.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\generic\obj\Debug\net6.0\generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\generic\obj\Debug\net6.0\generic.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\generic\obj\Debug\net6.0\generic.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\generic\obj\Debug\net6.0\generic.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\generic\obj\Debug\net6.0\generic.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\generic\obj\Debug\net6.0\ref\generic.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\generic\obj\Debug\net6.0\generic.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\generic\obj\Debug\net6.0\generic.genruntimeconfig.cache

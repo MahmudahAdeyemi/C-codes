@@ -1,0 +1,25 @@
+@model Transaction.ResponseModel.ManagerResponse ;
+<style>
+    a:hover{
+        font-size: 120%;
+    }
+</style>
+<h1>Details of this manager.</h1>
+<table class="table table-sm table-hover">
+    <thead>
+        <tr>
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>@Model.Data.FirstName</td>
+                <td>@Model.Data.LastName</td>
+                <td>@Model.Data.Email</td>
+            </tr>
+       
+    </tbody>
+</table>
+<button><a asp-action="Index">Back</a></button>

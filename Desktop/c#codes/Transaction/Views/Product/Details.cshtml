@@ -1,0 +1,26 @@
+@model Transaction.ResponseModel.ProductResponse ;
+<style>
+    a:hover{
+        font-size: 120%;
+    }
+</style>
+<table class="table table-sm table-hover">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>UnitOfMeasurement</th>
+            <th>UnitPrice</th>
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>@Model.Data.Name</td>
+                <td>@Model.Data.Description</td>
+                <td>@Model.Data.UnitOfMeasurement</td>
+                <td>@Model.Data.UnitPrice</td>
+            </tr>
+       
+    </tbody>
+</table>
+<button><a asp-action="Index">Back</a></button>

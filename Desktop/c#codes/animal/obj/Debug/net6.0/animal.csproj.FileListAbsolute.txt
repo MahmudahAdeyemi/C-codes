@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\animal\bin\Debug\net6.0\animal.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\animal\bin\Debug\net6.0\animal.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\animal\bin\Debug\net6.0\animal.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\animal\bin\Debug\net6.0\animal.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\animal\bin\Debug\net6.0\ref\animal.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\animal\bin\Debug\net6.0\animal.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\animal\obj\Debug\net6.0\animal.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\animal\obj\Debug\net6.0\animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\animal\obj\Debug\net6.0\animal.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\animal\obj\Debug\net6.0\animal.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\animal\obj\Debug\net6.0\animal.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\animal\obj\Debug\net6.0\animal.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\animal\obj\Debug\net6.0\ref\animal.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\animal\obj\Debug\net6.0\animal.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\animal\obj\Debug\net6.0\animal.genruntimeconfig.cache

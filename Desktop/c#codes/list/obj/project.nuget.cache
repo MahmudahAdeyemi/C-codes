@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "d9ZzIaKPvu0G5AeHkoqT2+0lJk1DeyHjcwFOrkL486FiiWMbRORjODUTqaq2P9jGzOQQb19h5J6ByTCO2oHbzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADEYEMI-M\\Desktop\\c#codes\\list\\list.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADEYEMI-M\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\ADEYEMI-M\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\ADEYEMI-M\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\ADEYEMI-M\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

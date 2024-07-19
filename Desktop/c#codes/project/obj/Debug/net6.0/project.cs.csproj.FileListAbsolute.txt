@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\project.cs\obj\Debug\net6.0\project.cs.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\project.cs\obj\Debug\net6.0\project.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\project.cs\obj\Debug\net6.0\project.cs.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\project.cs\obj\Debug\net6.0\project.cs.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\project.cs\obj\Debug\net6.0\project.cs.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\project.cs\bin\Debug\net6.0\project.cs.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\project.cs\bin\Debug\net6.0\project.cs.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\project.cs\bin\Debug\net6.0\project.cs.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\project.cs\bin\Debug\net6.0\project.cs.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\project.cs\bin\Debug\net6.0\ref\project.cs.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\project.cs\bin\Debug\net6.0\project.cs.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\project.cs\obj\Debug\net6.0\project.cs.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\project.cs\obj\Debug\net6.0\ref\project.cs.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\project.cs\obj\Debug\net6.0\project.cs.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\project.cs\obj\Debug\net6.0\project.cs.genruntimeconfig.cache

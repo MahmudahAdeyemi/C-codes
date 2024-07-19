@@ -1,0 +1,55 @@
+@model Transaction.ResponseModel.ProductsResponse ;
+<style>
+    a:hover{
+        font-size: 120%;
+    }
+</style>
+
+@if (@Model.Data.Count!= 0)
+{
+    <h1>List of Product</h1>
+
+    <table class="table table-sm table-hover">
+        <thead>
+            <tr>
+                <th>S/N</th>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Details</th>
+                <th>Update</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{int count =0;}
+            @foreach (var item in Model.Data)
+            {
+                count ++;
+                <tr>
+                <td>@count</td>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id"> Details </a>
+                </td>
+                <td>
+                    <a asp-action="Update" asp-route-id="@item.Id" > Update </a>
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@item.Id"> Delete </a>
+                </td>
+                </tr> 
+                
+                
+            }
+        
+        </tbody>
+        
+    </table>
+}
+else
+{
+    <h1>There is no product presently.</h1>
+}
+
+<p><button><a asp-action="Create">Add Product</a></button></p>

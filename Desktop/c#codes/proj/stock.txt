@@ -1,0 +1,2 @@
+tea	70	milo	10
+milk	60	peak	10

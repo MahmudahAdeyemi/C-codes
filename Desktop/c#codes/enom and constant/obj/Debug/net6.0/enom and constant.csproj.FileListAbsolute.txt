@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\enom and constant\bin\Debug\net6.0\enom and constant.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\enom and constant\bin\Debug\net6.0\enom and constant.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\enom and constant\bin\Debug\net6.0\enom and constant.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\enom and constant\bin\Debug\net6.0\enom and constant.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\enom and constant\bin\Debug\net6.0\ref\enom and constant.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\enom and constant\bin\Debug\net6.0\enom and constant.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\enom and constant\obj\Debug\net6.0\enom and constant.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\enom and constant\obj\Debug\net6.0\enom and constant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\enom and constant\obj\Debug\net6.0\enom and constant.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\enom and constant\obj\Debug\net6.0\enom and constant.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\enom and constant\obj\Debug\net6.0\enom and constant.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\enom and constant\obj\Debug\net6.0\enom and constant.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\enom and constant\obj\Debug\net6.0\ref\enom and constant.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\enom and constant\obj\Debug\net6.0\enom and constant.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\enom and constant\obj\Debug\net6.0\enom and constant.genruntimeconfig.cache

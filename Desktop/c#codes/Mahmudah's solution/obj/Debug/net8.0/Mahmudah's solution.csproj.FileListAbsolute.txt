@@ -1,0 +1,14 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah's solution\obj\Debug\net8.0\Mahmudah's solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah's solution\obj\Debug\net8.0\Mahmudah's solution.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah's solution\obj\Debug\net8.0\Mahmudah's solution.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah's solution\obj\Debug\net8.0\Mahmudah's solution.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah's solution\bin\Debug\net8.0\Mahmudah's solution.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah's solution\bin\Debug\net8.0\Mahmudah's solution.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah's solution\bin\Debug\net8.0\Mahmudah's solution.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah's solution\bin\Debug\net8.0\Mahmudah's solution.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah's solution\bin\Debug\net8.0\Mahmudah's solution.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah's solution\obj\Debug\net8.0\Mahmudah's solution.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah's solution\obj\Debug\net8.0\refint\Mahmudah's solution.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah's solution\obj\Debug\net8.0\Mahmudah's solution.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah's solution\obj\Debug\net8.0\Mahmudah's solution.genruntimeconfig.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\Mahmudah's solution\obj\Debug\net8.0\ref\Mahmudah's solution.dll

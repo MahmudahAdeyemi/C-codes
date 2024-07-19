@@ -1,0 +1,22 @@
+@model Transaction.RequestModel.ProductRequestModel;
+<p style="color: red; font-weight: bold;">Add a product by filling out the form below</p>
+<form method="Post">
+    <div class="col-md-6" style = "margin-top:40px; font-size: larger; font -weight: bold;colour: darkcyan">
+        <label asp-for="Name" class= "form-label">Name</label>
+        <input asp-for = "Name" type="text" class="form-control">
+        <label asp-for="Description" class= "form-label">Description</label>
+        <input asp-for = "Description" type="text" class="form-control">
+        <label asp-for="UnitOfMeasurement" class= "form-label">Unit Of Measurement</label>
+        <input asp-for = "UnitOfMeasurement" type="text" class="form-control">
+        <label asp-for="UnitPrice" class= "form-label">Unit Price</label>
+        <input asp-for = "UnitPrice" type="text" class="form-control">
+        <label asp-for="CategoryQuantity" class= "form-label">Category Quantity  (*optional*)</label>
+        <input asp-for = "CategoryQuantity" type="text" class="form-control">
+        <label asp-for="CategoryPrice" class= "form-label">Category Price  (*optional*)</label>
+        <input asp-for = "CategoryPrice" type="text" class="form-control">
+        <label asp-for="Category" class= "form-label">Category (*optional*)</label>
+        <input asp-for = "Category" type="text" class="form-control">
+    </div>
+
+    <button type="submit">Create</button>
+</form>

@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\duplicate\bin\Debug\net6.0\duplicate.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\duplicate\bin\Debug\net6.0\duplicate.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\duplicate\bin\Debug\net6.0\duplicate.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\duplicate\bin\Debug\net6.0\duplicate.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\duplicate\bin\Debug\net6.0\ref\duplicate.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\duplicate\bin\Debug\net6.0\duplicate.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\duplicate\obj\Debug\net6.0\duplicate.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\duplicate\obj\Debug\net6.0\duplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\duplicate\obj\Debug\net6.0\duplicate.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\duplicate\obj\Debug\net6.0\duplicate.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\duplicate\obj\Debug\net6.0\duplicate.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\duplicate\obj\Debug\net6.0\duplicate.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\duplicate\obj\Debug\net6.0\ref\duplicate.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\duplicate\obj\Debug\net6.0\duplicate.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\duplicate\obj\Debug\net6.0\duplicate.genruntimeconfig.cache

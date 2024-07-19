@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\sorted_list\bin\Debug\net6.0\sorted_list.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\sorted_list\bin\Debug\net6.0\sorted_list.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\sorted_list\bin\Debug\net6.0\sorted_list.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\sorted_list\bin\Debug\net6.0\sorted_list.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\sorted_list\bin\Debug\net6.0\ref\sorted_list.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\sorted_list\bin\Debug\net6.0\sorted_list.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\sorted_list\obj\Debug\net6.0\sorted_list.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\sorted_list\obj\Debug\net6.0\sorted_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\sorted_list\obj\Debug\net6.0\sorted_list.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\sorted_list\obj\Debug\net6.0\sorted_list.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\sorted_list\obj\Debug\net6.0\sorted_list.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\sorted_list\obj\Debug\net6.0\sorted_list.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\sorted_list\obj\Debug\net6.0\ref\sorted_list.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\sorted_list\obj\Debug\net6.0\sorted_list.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\sorted_list\obj\Debug\net6.0\sorted_list.genruntimeconfig.cache

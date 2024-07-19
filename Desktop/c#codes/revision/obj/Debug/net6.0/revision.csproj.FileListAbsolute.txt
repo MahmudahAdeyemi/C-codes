@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\revision\bin\Debug\net6.0\revision.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\revision\bin\Debug\net6.0\revision.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\revision\bin\Debug\net6.0\revision.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\revision\bin\Debug\net6.0\revision.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\revision\bin\Debug\net6.0\ref\revision.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\revision\bin\Debug\net6.0\revision.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\revision\obj\Debug\net6.0\revision.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\revision\obj\Debug\net6.0\revision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\revision\obj\Debug\net6.0\revision.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\revision\obj\Debug\net6.0\revision.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\revision\obj\Debug\net6.0\revision.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\revision\obj\Debug\net6.0\revision.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\revision\obj\Debug\net6.0\ref\revision.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\revision\obj\Debug\net6.0\revision.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\revision\obj\Debug\net6.0\revision.genruntimeconfig.cache

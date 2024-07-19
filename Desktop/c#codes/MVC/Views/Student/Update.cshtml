@@ -1,0 +1,27 @@
+@model MVC.ENTITIES.Student
+<p style="color: red; font-weight: bold;">Update a student by filling out the form below</p>
+<form method="Post">
+    <div class="col-md-6" style = "margin-top:40px; font-size: larger; font -weight: bold;colour: darkcyan">
+        <label asp-for="FName" class= "form-label">FirstName</label>
+        <input asp-for = "FName" type="text" class="form-control">
+        <label asp-for="LName" class= "form-label">LastName</label>
+        <input asp-for = "LName" type="text" class="form-control">
+        <label asp-for="Age" class= "form-label">Age</label>
+        <input asp-for = "Age" type="text" class="form-control">
+        <label asp-for="Email" class= "form-label"></label>
+        <input asp-for = "Email" type="text" class="form-control">
+        <label asp-for="Password" class= "form-label">Password</label>
+        <input asp-for = "Password" type="text" class="form-control">
+        <div class="form-row">
+            <div class="col-md-6"style="margin-top: 20px; font-size: larger; font-weight: bold; color: darkcyan">
+                <label asp-for="DepartmentId" class="control-label"></label>
+                <select asp-for="DepartmentId" class="form-control" asp-items ="ViewBag.Departments">
+                    <option value="">Select Department</option>
+                </select>
+            </div>
+        </div>
+        
+    </div>
+
+    <button type="submit">Update</button>
+</form>

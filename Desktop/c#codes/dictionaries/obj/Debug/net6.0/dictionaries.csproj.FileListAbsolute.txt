@@ -1,0 +1,15 @@
+C:\Users\ADEYEMI-M\Desktop\c#codes\dictionaries\bin\Debug\net6.0\dictionaries.exe
+C:\Users\ADEYEMI-M\Desktop\c#codes\dictionaries\bin\Debug\net6.0\dictionaries.deps.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\dictionaries\bin\Debug\net6.0\dictionaries.runtimeconfig.json
+C:\Users\ADEYEMI-M\Desktop\c#codes\dictionaries\bin\Debug\net6.0\dictionaries.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\dictionaries\bin\Debug\net6.0\ref\dictionaries.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\dictionaries\bin\Debug\net6.0\dictionaries.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\dictionaries\obj\Debug\net6.0\dictionaries.csproj.AssemblyReference.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\dictionaries\obj\Debug\net6.0\dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI-M\Desktop\c#codes\dictionaries\obj\Debug\net6.0\dictionaries.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\dictionaries\obj\Debug\net6.0\dictionaries.AssemblyInfo.cs
+C:\Users\ADEYEMI-M\Desktop\c#codes\dictionaries\obj\Debug\net6.0\dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI-M\Desktop\c#codes\dictionaries\obj\Debug\net6.0\dictionaries.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\dictionaries\obj\Debug\net6.0\ref\dictionaries.dll
+C:\Users\ADEYEMI-M\Desktop\c#codes\dictionaries\obj\Debug\net6.0\dictionaries.pdb
+C:\Users\ADEYEMI-M\Desktop\c#codes\dictionaries\obj\Debug\net6.0\dictionaries.genruntimeconfig.cache
